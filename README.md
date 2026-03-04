@@ -1,4 +1,4 @@
-# 🖼️ Text-based Image Editing with SAM + Stable Diffusion
+# 🖼️ Talk to Segment: Text-based Image Editing with SAM + Stable Diffusion
 
 This project demonstrates a **text-based image editing pipeline** using:
 - **GroundingDINO + SAM (Segment Anything Model)** for **text-prompted segmentation**
